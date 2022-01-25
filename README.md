@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @araduflorin
-- 👀 I’m interested in IT Technology
-- 🌱 I’m currently learning Python, Flask, HTML, CSS, JavaScript, Cyber Security
+- 👀 I’m interested in IT Technology.
+- 🌱 I’m currently learning Python, Flask, HTML, CSS, JavaScript, Cyber Security.
 - 💞️ I’m looking to collaborate on all above.
 - 📫 How to reach me ... e-mail me.
 
